@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .progress{
+        background-color:lightgreen;
+        height: 5px;
+        animation: load 3s ease-in-out 1 ;
+    }
+    header{
+        height: 122px;
+        background-color: black;
+        color: white;
+
+    }
+    main{
+        height: 899px;
+        background-color:wheat;
+        color: black;
+        
+    }
+    @keyframes load{
+        0%{
+            width:0vw;
+        }
+        50%{
+            width:60vw;
+        }
+        100%{
+            width:100vw;
+        }
+
+    }

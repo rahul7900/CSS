@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+}
+div{
+    background-color: rosybrown;
+}
+#red{
+   background-color: red;
+   color: white;
+}
+.green{
+   background-color: pink;
+   color: white;
+   border: 2px solid black;
+}

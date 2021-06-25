@@ -1,0 +1,26 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+header{
+  
+    height: 64px;
+    background-color: grey;
+    color: khaki;
+    border: 6px pink;
+}
+.content{
+    margin: 34px;
+    padding: 34px;
+    height: 50vh;
+    background-color: yellow;
+    color: blue;
+}
+footer{
+    margin: 16px;
+    background-color: green;
+    color: black;
+   }
+    .text{
+        text-align: center;
+    }
